@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: app1nginxaks 
-          image: redd49acr.azurecr.io/redd49acr
+          image: redd49acr.azurecr.io/redd/redd49img
           ports:
           - containerPort: 80
